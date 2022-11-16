@@ -1,0 +1,269 @@
+ 1160 lines (1138 sloc) 67.2 KB
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="2" >
+
+    <dataSet config="20.0.0" >
+        <source path="/Users/SPARK/Documents/personal/opportunityhack/eBay-Opportunity-Hack-Blr-2014/say-trees/volunteer/app/facebook/build/intermediates/exploded-aar/com.android.support/support-v4/20.0.0/res" />
+    </dataSet>
+    <dataSet config="main" >
+        <source path="/Users/SPARK/Documents/personal/opportunityhack/eBay-Opportunity-Hack-Blr-2014/say-trees/volunteer/app/facebook/res" >
+            <file
+                name="com_facebook_button_blue"
+                path="/Users/SPARK/Documents/personal/opportunityhack/eBay-Opportunity-Hack-Blr-2014/say-trees/volunteer/app/facebook/res/drawable/com_facebook_button_blue.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="com_facebook_button_blue_focused"
+                path="/Users/SPARK/Documents/personal/opportunityhack/eBay-Opportunity-Hack-Blr-2014/say-trees/volunteer/app/facebook/res/drawable/com_facebook_button_blue_focused.9.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="com_facebook_button_blue_normal"
+                path="/Users/SPARK/Documents/personal/opportunityhack/eBay-Opportunity-Hack-Blr-2014/say-trees/volunteer/app/facebook/res/drawable/com_facebook_button_blue_normal.9.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="com_facebook_button_blue_pressed"
+                path="/Users/SPARK/Documents/personal/opportunityhack/eBay-Opportunity-Hack-Blr-2014/say-trees/volunteer/app/facebook/res/drawable/com_facebook_button_blue_pressed.9.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="com_facebook_button_check"
+                path="/Users/SPARK/Documents/personal/opportunityhack/eBay-Opportunity-Hack-Blr-2014/say-trees/volunteer/app/facebook/res/drawable/com_facebook_button_check.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="com_facebook_button_check_off"
+                path="/Users/SPARK/Documents/personal/opportunityhack/eBay-Opportunity-Hack-Blr-2014/say-trees/volunteer/app/facebook/res/drawable/com_facebook_button_check_off.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="com_facebook_button_check_on"
+                path="/Users/SPARK/Documents/personal/opportunityhack/eBay-Opportunity-Hack-Blr-2014/say-trees/volunteer/app/facebook/res/drawable/com_facebook_button_check_on.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="com_facebook_button_grey_focused"
+                path="/Users/SPARK/Documents/personal/opportunityhack/eBay-Opportunity-Hack-Blr-2014/say-trees/volunteer/app/facebook/res/drawable/com_facebook_button_grey_focused.9.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="com_facebook_button_grey_normal"
+                path="/Users/SPARK/Documents/personal/opportunityhack/eBay-Opportunity-Hack-Blr-2014/say-trees/volunteer/app/facebook/res/drawable/com_facebook_button_grey_normal.9.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="com_facebook_button_grey_pressed"
+                path="/Users/SPARK/Documents/personal/opportunityhack/eBay-Opportunity-Hack-Blr-2014/say-trees/volunteer/app/facebook/res/drawable/com_facebook_button_grey_pressed.9.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="com_facebook_button_like"
+                path="/Users/SPARK/Documents/personal/opportunityhack/eBay-Opportunity-Hack-Blr-2014/say-trees/volunteer/app/facebook/res/drawable/com_facebook_button_like.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="com_facebook_button_like_background"
+                path="/Users/SPARK/Documents/personal/opportunityhack/eBay-Opportunity-Hack-Blr-2014/say-trees/volunteer/app/facebook/res/drawable/com_facebook_button_like_background.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="com_facebook_button_like_background_selected"
+                path="/Users/SPARK/Documents/personal/opportunityhack/eBay-Opportunity-Hack-Blr-2014/say-trees/volunteer/app/facebook/res/drawable/com_facebook_button_like_background_selected.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="com_facebook_button_like_icon"
+                path="/Users/SPARK/Documents/personal/opportunityhack/eBay-Opportunity-Hack-Blr-2014/say-trees/volunteer/app/facebook/res/drawable/com_facebook_button_like_icon.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="com_facebook_button_like_icon_selected"
+                path="/Users/SPARK/Documents/personal/opportunityhack/eBay-Opportunity-Hack-Blr-2014/say-trees/volunteer/app/facebook/res/drawable/com_facebook_button_like_icon_selected.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="com_facebook_button_like_pressed"
+                path="/Users/SPARK/Documents/personal/opportunityhack/eBay-Opportunity-Hack-Blr-2014/say-trees/volunteer/app/facebook/res/drawable/com_facebook_button_like_pressed.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="com_facebook_button_like_selected"
+                path="/Users/SPARK/Documents/personal/opportunityhack/eBay-Opportunity-Hack-Blr-2014/say-trees/volunteer/app/facebook/res/drawable/com_facebook_button_like_selected.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="com_facebook_close"
+                path="/Users/SPARK/Documents/personal/opportunityhack/eBay-Opportunity-Hack-Blr-2014/say-trees/volunteer/app/facebook/res/drawable/com_facebook_close.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="com_facebook_inverse_icon"
+                path="/Users/SPARK/Documents/personal/opportunityhack/eBay-Opportunity-Hack-Blr-2014/say-trees/volunteer/app/facebook/res/drawable/com_facebook_inverse_icon.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="com_facebook_list_divider"
+                path="/Users/SPARK/Documents/personal/opportunityhack/eBay-Opportunity-Hack-Blr-2014/say-trees/volunteer/app/facebook/res/drawable/com_facebook_list_divider.9.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="com_facebook_list_section_header_background"
+                path="/Users/SPARK/Documents/personal/opportunityhack/eBay-Opportunity-Hack-Blr-2014/say-trees/volunteer/app/facebook/res/drawable/com_facebook_list_section_header_background.9.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="com_facebook_loginbutton_silver"
+                path="/Users/SPARK/Documents/personal/opportunityhack/eBay-Opportunity-Hack-Blr-2014/say-trees/volunteer/app/facebook/res/drawable/com_facebook_loginbutton_silver.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="com_facebook_logo"
+                path="/Users/SPARK/Documents/personal/opportunityhack/eBay-Opportunity-Hack-Blr-2014/say-trees/volunteer/app/facebook/res/drawable/com_facebook_logo.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="com_facebook_picker_item_background"
+                path="/Users/SPARK/Documents/personal/opportunityhack/eBay-Opportunity-Hack-Blr-2014/say-trees/volunteer/app/facebook/res/drawable/com_facebook_picker_item_background.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="com_facebook_picker_list_focused"
+                path="/Users/SPARK/Documents/personal/opportunityhack/eBay-Opportunity-Hack-Blr-2014/say-trees/volunteer/app/facebook/res/drawable/com_facebook_picker_list_focused.9.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="com_facebook_picker_list_longpressed"
+                path="/Users/SPARK/Documents/personal/opportunityhack/eBay-Opportunity-Hack-Blr-2014/say-trees/volunteer/app/facebook/res/drawable/com_facebook_picker_list_longpressed.9.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="com_facebook_picker_list_pressed"
+                path="/Users/SPARK/Documents/personal/opportunityhack/eBay-Opportunity-Hack-Blr-2014/say-trees/volunteer/app/facebook/res/drawable/com_facebook_picker_list_pressed.9.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="com_facebook_picker_list_selector"
+                path="/Users/SPARK/Documents/personal/opportunityhack/eBay-Opportunity-Hack-Blr-2014/say-trees/volunteer/app/facebook/res/drawable/com_facebook_picker_list_selector.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="com_facebook_picker_list_selector_background_transition"
+                path="/Users/SPARK/Documents/personal/opportunityhack/eBay-Opportunity-Hack-Blr-2014/say-trees/volunteer/app/facebook/res/drawable/com_facebook_picker_list_selector_background_transition.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="com_facebook_picker_list_selector_disabled"
+                path="/Users/SPARK/Documents/personal/opportunityhack/eBay-Opportunity-Hack-Blr-2014/say-trees/volunteer/app/facebook/res/drawable/com_facebook_picker_list_selector_disabled.9.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="com_facebook_picker_top_button"
+                path="/Users/SPARK/Documents/personal/opportunityhack/eBay-Opportunity-Hack-Blr-2014/say-trees/volunteer/app/facebook/res/drawable/com_facebook_picker_top_button.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="com_facebook_place_default_icon"
+                path="/Users/SPARK/Documents/personal/opportunityhack/eBay-Opportunity-Hack-Blr-2014/say-trees/volunteer/app/facebook/res/drawable/com_facebook_place_default_icon.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="com_facebook_profile_default_icon"
+                path="/Users/SPARK/Documents/personal/opportunityhack/eBay-Opportunity-Hack-Blr-2014/say-trees/volunteer/app/facebook/res/drawable/com_facebook_profile_default_icon.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="com_facebook_profile_picture_blank_portrait"
+                path="/Users/SPARK/Documents/personal/opportunityhack/eBay-Opportunity-Hack-Blr-2014/say-trees/volunteer/app/facebook/res/drawable/com_facebook_profile_picture_blank_portrait.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="com_facebook_profile_picture_blank_square"
+                path="/Users/SPARK/Documents/personal/opportunityhack/eBay-Opportunity-Hack-Blr-2014/say-trees/volunteer/app/facebook/res/drawable/com_facebook_profile_picture_blank_square.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="com_facebook_top_background"
+                path="/Users/SPARK/Documents/personal/opportunityhack/eBay-Opportunity-Hack-Blr-2014/say-trees/volunteer/app/facebook/res/drawable/com_facebook_top_background.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="com_facebook_top_button"
+                path="/Users/SPARK/Documents/personal/opportunityhack/eBay-Opportunity-Hack-Blr-2014/say-trees/volunteer/app/facebook/res/drawable/com_facebook_top_button.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="com_facebook_usersettingsfragment_background_gradient"
+                path="/Users/SPARK/Documents/personal/opportunityhack/eBay-Opportunity-Hack-Blr-2014/say-trees/volunteer/app/facebook/res/drawable/com_facebook_usersettingsfragment_background_gradient.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="com_facebook_button_blue_focused"
+                path="/Users/SPARK/Documents/personal/opportunityhack/eBay-Opportunity-Hack-Blr-2014/say-trees/volunteer/app/facebook/res/drawable-hdpi/com_facebook_button_blue_focused.9.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="com_facebook_button_blue_normal"
+                path="/Users/SPARK/Documents/personal/opportunityhack/eBay-Opportunity-Hack-Blr-2014/say-trees/volunteer/app/facebook/res/drawable-hdpi/com_facebook_button_blue_normal.9.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="com_facebook_button_blue_pressed"
+                path="/Users/SPARK/Documents/personal/opportunityhack/eBay-Opportunity-Hack-Blr-2014/say-trees/volunteer/app/facebook/res/drawable-hdpi/com_facebook_button_blue_pressed.9.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="com_facebook_button_grey_focused"
+                path="/Users/SPARK/Documents/personal/opportunityhack/eBay-Opportunity-Hack-Blr-2014/say-trees/volunteer/app/facebook/res/drawable-hdpi/com_facebook_button_grey_focused.9.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="com_facebook_button_grey_normal"
+                path="/Users/SPARK/Documents/personal/opportunityhack/eBay-Opportunity-Hack-Blr-2014/say-trees/volunteer/app/facebook/res/drawable-hdpi/com_facebook_button_grey_normal.9.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="com_facebook_button_grey_pressed"
+                path="/Users/SPARK/Documents/personal/opportunityhack/eBay-Opportunity-Hack-Blr-2014/say-trees/volunteer/app/facebook/res/drawable-hdpi/com_facebook_button_grey_pressed.9.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="com_facebook_button_like_background"
+                path="/Users/SPARK/Documents/personal/opportunityhack/eBay-Opportunity-Hack-Blr-2014/say-trees/volunteer/app/facebook/res/drawable-hdpi/com_facebook_button_like_background.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="com_facebook_button_like_background_selected"
+                path="/Users/SPARK/Documents/personal/opportunityhack/eBay-Opportunity-Hack-Blr-2014/say-trees/volunteer/app/facebook/res/drawable-hdpi/com_facebook_button_like_background_selected.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="com_facebook_button_like_icon"
+                path="/Users/SPARK/Documents/personal/opportunityhack/eBay-Opportunity-Hack-Blr-2014/say-trees/volunteer/app/facebook/res/drawable-hdpi/com_facebook_button_like_icon.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="com_facebook_button_like_icon_selected"
+                path="/Users/SPARK/Documents/personal/opportunityhack/eBay-Opportunity-Hack-Blr-2014/say-trees/volunteer/app/facebook/res/drawable-hdpi/com_facebook_button_like_icon_selected.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="com_facebook_button_like_pressed"
+                path="/Users/SPARK/Documents/personal/opportunityhack/eBay-Opportunity-Hack-Blr-2014/say-trees/volunteer/app/facebook/res/drawable-hdpi/com_facebook_button_like_pressed.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="com_facebook_close"
+                path="/Users/SPARK/Documents/personal/opportunityhack/eBay-Opportunity-Hack-Blr-2014/say-trees/volunteer/app/facebook/res/drawable-hdpi/com_facebook_close.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="com_facebook_inverse_icon"
+                path="/Users/SPARK/Documents/personal/opportunityhack/eBay-Opportunity-Hack-Blr-2014/say-trees/volunteer/app/facebook/res/drawable-hdpi/com_facebook_inverse_icon.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="com_facebook_logo"
+                path="/Users/SPARK/Documents/personal/opportunityhack/eBay-Opportunity-Hack-Blr-2014/say-trees/volunteer/app/facebook/res/drawable-hdpi/com_facebook_logo.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
